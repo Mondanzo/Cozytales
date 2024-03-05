@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Red Panda 2024
 
 
 #include "MyControllerIconDecorator.h"
@@ -9,10 +9,9 @@ const FSlateBrush* UMyControllerIconDecorator::FindImageBrush(FName TagOrId, boo
 }
 
 void UMyControllerIconDecorator::SetControllerSet(FString NewSet) {
-	if (ImageSets.Contains(NewSet)) {
+	if(ImageSets.Contains(NewSet)) {
 		ImageSet = ImageSets[NewSet];
-	}
-	else {
+	} else {
 		UE_LOG(LogTemp, Error, TEXT("Failed to find %s!"), *NewSet)
 	}
 }
