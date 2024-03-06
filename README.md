@@ -6,6 +6,21 @@
 
 Step into Akai’s world of calm exploration, discovering a cozy gaming adventure! Cozy Tales is more than just a game; it's a comforting escape into a serene and charming world. Here, players are invited to immerse themselves in a peaceful adventure, turning maps into stories and guiding future adventurers.
 
+## Key Informations:
+Engine: Unreal 5.3
+
+Team Size: 10 people
+
+Platform: PC
+
+Genre: Exploration Adventure
+
+Participation Duration: 4 weeks
+
+Release: 14.2.2024
+
+Number of Players: Single Player
+
 # Role in the team
 
 - late joiner (only participated for 4 / 10 weeks.)
