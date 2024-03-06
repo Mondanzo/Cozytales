@@ -2,6 +2,8 @@
 [Download on itch](https://s4g.itch.io/cozytales) -
 [Project Page](https://mondanzo.de/#cozytales)
 
+[Download Build here](https://github.com/Mondanzo/Cozytales/releases/)
+
 # About
 
 Step into Akai’s world of calm exploration, discovering a cozy gaming adventure! Cozy Tales is more than just a game; it's a comforting escape into a serene and charming world. Here, players are invited to immerse themselves in a peaceful adventure, turning maps into stories and guiding future adventurers.
