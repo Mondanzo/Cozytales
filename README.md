@@ -2,6 +2,8 @@
 [Download on itch](https://s4g.itch.io/cozytales) -
 [Project Page](https://mondanzo.de/#cozytales)
 
+**Notice: The version uploaded here is a showcase variant with only the necessary features added.**
+
 [Download Build here](https://github.com/Mondanzo/Cozytales/releases/)
 
 # About
