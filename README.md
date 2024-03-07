@@ -4,7 +4,7 @@
 
 **Notice: The version uploaded here is a showcase variant with only the necessary features added.**
 
-[Download Build here](https://github.com/Mondanzo/Cozytales/releases/)
+[Download Showcase Build here](https://github.com/Mondanzo/Cozytales/releases/)
 
 # About
 
